@@ -1,0 +1,4 @@
+# Comentary ignore file
+/bin/
+*.bak
+~*
